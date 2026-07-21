@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="assets/ascii_portrait.svg" alt="ASCII portrait" width="380"/></td>
+<td valign="top" align="center"><img src="assets/portrait_circle.png" alt="Muhammad Sami" width="280"/></td>
 <td valign="top"><img src="assets/info_card.svg" alt="neofetch-style info card" width="480"/></td>
 </tr>
 </table>
