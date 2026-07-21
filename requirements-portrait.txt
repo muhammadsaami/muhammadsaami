@@ -1,0 +1,3 @@
+# Needed only when you (re)generate the ASCII portrait or info card locally.
+# Not needed by the GitHub Actions workflow.
+Pillow>=10.0.0

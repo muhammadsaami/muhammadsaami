@@ -1,0 +1,4 @@
+# fetch_contributions.py and render_heatmap_svg.py use only the Python
+# standard library (urllib, json, datetime, argparse) — nothing to
+# install. This file exists so the Actions workflow's `pip install -r`
+# step has something valid to run, and so future additions have a home.

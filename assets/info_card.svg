@@ -1,0 +1,20 @@
+<svg viewBox="0 0 560 348" width="560" height="348" xmlns="http://www.w3.org/2000/svg">
+<rect width="560" height="348" rx="10" fill="#0d1117"/>
+<style>text { font-family: "Courier New", monospace; font-size: 13px; }.header { fill: #39ff88; font-weight: bold; }.rule { fill: #30363d; }.label { fill: #7ee787; font-weight: bold; }.value { fill: #c9d1d9; }.subheader { fill: #39ff88; font-weight: bold; }.project { fill: #c9d1d9; }</style>
+<text x="18" y="26" class="header">muhammadsaami@github</text>
+<text x="18" y="45" class="rule">----------------------------------</text>
+<text x="18" y="64"><tspan class="label">OS: </tspan><tspan class="value">Backend Systems 22.6 LTS</tspan></text>
+<text x="18" y="83"><tspan class="label">Role: </tspan><tspan class="value">AI Backend Developer</tspan></text>
+<text x="18" y="102"><tspan class="label">Now: </tspan><tspan class="value">HeyBobo.AI — RAG pipelines &amp; AI agent workflows</tspan></text>
+<text x="18" y="121"><tspan class="label">Prev: </tspan><tspan class="value">Roorq.com (backend) · Phemsoft (AI + Healthcare)</tspan></text>
+<text x="18" y="140"><tspan class="label">Shell: </tspan><tspan class="value">FastAPI / Node.js / Express</tspan></text>
+<text x="18" y="159"><tspan class="label">Stack: </tspan><tspan class="value">Python · LangChain · LlamaIndex · Pinecone · React.js</tspan></text>
+<text x="18" y="178"><tspan class="label">DB: </tspan><tspan class="value">PostgreSQL · MongoDB · Supabase · Pinecone</tspan></text>
+<text x="18" y="197"><tspan class="label">Education: </tspan><tspan class="value">M.Tech AI, UPES · B.Tech, AMU</tspan></text>
+<text x="18" y="216" class="project"></text>
+<text x="18" y="235" class="subheader">Top repos:</text>
+<text x="18" y="254" class="project">  documind — RAG-powered document Q&amp;A platform</text>
+<text x="18" y="273" class="project">  MERN-Ecommerce-App — Full-stack store with Stripe checkout</text>
+<text x="18" y="292" class="project">  MediCare-project — Healthcare data + ML treatment planning</text>
+<text x="18" y="311" class="project">  Virtual-Mouse-Using-hand-gestures — Real-time hand-gesture PC control</text>
+</svg>
