@@ -21,6 +21,8 @@ Roorq.com and Phemsoft Technologies.
 
 **Pinned work**
 
+**Pinned work**
+- [`NexusMind-ai`](https://github.com/muhammadsaami/Nexusmind-ai) — agentic RAG enterprise assistant with LangGraph, hybrid retrieval, live analytics & PII-masking guardrails (FastAPI, React, Qdrant, Groq)
 - [`documind`](https://github.com/muhammadsaami/documind) — RAG-powered document Q&A platform (FastAPI, LangChain, Pinecone)
 - [`MERN-Ecommerce-App`](https://github.com/muhammadsaami/MERN-Ecommerce-App) — full-stack store with Stripe checkout
 - [`MediCare-project`](https://github.com/muhammadsaami/MediCare-project) — healthcare data + ML treatment planning
