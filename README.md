@@ -28,6 +28,7 @@ Roorq.com and Phemsoft Technologies.
 - [`MediCare-project`](https://github.com/muhammadsaami/MediCare-project) — healthcare data + ML treatment planning
 - [`Virtual-Mouse-Using-hand-gestures-project`](https://github.com/muhammadsaami/Virtual-Mouse-Using-hand-gestures-project) — real-time hand-gesture PC control
 - [`Enterprise-RAG-PDF-Chatbot-Platform`](https://github.com/muhammadsaami/Enterprise-RAG-PDF-Chatbot-Platform) — production-grade RAG platform, multi-tenant workspaces, live pipeline monitoring & analytics dashboard
+- [Orbit](https://github.com/muhammadsaami/Orbit) — full-stack freelance marketplace with React, FastAPI, PostgreSQL, Redis, real-time chat & Razorpay milestone payments
 
 **Reach me:** saamikhan7310@gmail.com · [linkedin.com/in/muhammadsaami](https://linkedin.com/in/muhammadsaami)
 
