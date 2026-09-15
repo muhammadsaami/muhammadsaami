@@ -21,15 +21,15 @@ Roorq.com and Phemsoft Technologies.
 
 **Pinned work**
 
-**Pinned work**
+- [`SupportPilot`](https://github.com/muhammadsaami/AI-Tenat-Customer-Support) — multi-tenant AI customer support platform with document-grounded RAG chat, source citations & real-time indexing (FastAPI, React, PostgreSQL, Redis, ChromaDB)
 - [`NexusMind-ai`](https://github.com/muhammadsaami/Nexusmind-ai) — agentic RAG enterprise assistant with LangGraph, hybrid retrieval, live analytics & PII-masking guardrails (FastAPI, React, Qdrant, Groq)
 - [`documind`](https://github.com/muhammadsaami/documind) — RAG-powered document Q&A platform (FastAPI, LangChain, Pinecone)
 - [`MERN-Ecommerce-App`](https://github.com/muhammadsaami/MERN-Ecommerce-App) — full-stack store with Stripe checkout
 - [`MediCare-project`](https://github.com/muhammadsaami/MediCare-project) — healthcare data + ML treatment planning
 - [`Virtual-Mouse-Using-hand-gestures-project`](https://github.com/muhammadsaami/Virtual-Mouse-Using-hand-gestures-project) — real-time hand-gesture PC control
 - [`Enterprise-RAG-PDF-Chatbot-Platform`](https://github.com/muhammadsaami/Enterprise-RAG-PDF-Chatbot-Platform) — production-grade RAG platform, multi-tenant workspaces, live pipeline monitoring & analytics dashboard
-- [Orbit](https://github.com/muhammadsaami/Orbit) — full-stack freelance marketplace with React, FastAPI, PostgreSQL, Redis, real-time chat & Razorpay milestone payments
-- [trustlens](https://github.com/muhammadsaami/trustlens) — AI agent & RAG observability platform with automatic hallucination/retrieval scoring, live dashboard & Python SDK (FastAPI, Celery, Postgres, React, Ragas)
+- [`Orbit`](https://github.com/muhammadsaami/Orbit) — full-stack freelance marketplace with React, FastAPI, PostgreSQL, Redis, real-time chat & Razorpay milestone payments
+- [`trustlens`](https://github.com/muhammadsaami/trustlens) — AI agent & RAG observability platform with automatic hallucination/retrieval scoring, live dashboard & Python SDK (FastAPI, Celery, Postgres, React, Ragas)
 
 **Reach me:** khansaami2131@gmail.com· [linkedin.com/in/muhammadsaami](https://linkedin.com/in/muhammadsaami)
 
