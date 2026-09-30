@@ -21,6 +21,7 @@ Roorq.com and Phemsoft Technologies.
 
 **Pinned work**
 
+- [`CareLoop.AI`](https://github.com/muhammadsaami/CareLoop.AI) — AI post-hospital-discharge recovery assistant with document-grounded RAG answers, a fixed LangGraph agent, daily check-ins & safe escalation, and a React patient app (FastAPI, React, PostgreSQL, ChromaDB, LangGraph, Groq)
 - [`SupportPilot`](https://github.com/muhammadsaami/AI-Tenat-Customer-Support) — multi-tenant AI customer support platform with document-grounded RAG chat, source citations & real-time indexing (FastAPI, React, PostgreSQL, Redis, ChromaDB)
 - [`NexusMind-ai`](https://github.com/muhammadsaami/Nexusmind-ai) — agentic RAG enterprise assistant with LangGraph, hybrid retrieval, live analytics & PII-masking guardrails (FastAPI, React, Qdrant, Groq)
 - [`documind`](https://github.com/muhammadsaami/documind) — RAG-powered document Q&A platform (FastAPI, LangChain, Pinecone)
@@ -31,7 +32,7 @@ Roorq.com and Phemsoft Technologies.
 - [`Orbit`](https://github.com/muhammadsaami/Orbit) — full-stack freelance marketplace with React, FastAPI, PostgreSQL, Redis, real-time chat & Razorpay milestone payments
 - [`trustlens`](https://github.com/muhammadsaami/trustlens) — AI agent & RAG observability platform with automatic hallucination/retrieval scoring, live dashboard & Python SDK (FastAPI, Celery, Postgres, React, Ragas)
 
-**Reach me:** khansaami2131@gmail.com· [linkedin.com/in/muhammadsaami](https://linkedin.com/in/muhammadsaami)
+**Reach me:** khansaami2131@gmail.com · [linkedin.com/in/muhammadsaami](https://linkedin.com/in/muhammadsaami)
 
 ---
 
