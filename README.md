@@ -13,7 +13,7 @@
 
 ---
 
-### muhammadsaami@github ~ %
+### Muhammadsami@github ~ %
 
 AI Backend Developer building RAG pipelines, AI agent workflows, and the FastAPI
 backends that hold them together. Currently at **HeyBobo.AI**, previously
