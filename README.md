@@ -31,6 +31,7 @@ Roorq.com and Phemsoft Technologies.
 - [`Enterprise-RAG-PDF-Chatbot-Platform`](https://github.com/muhammadsaami/Enterprise-RAG-PDF-Chatbot-Platform) — production-grade RAG platform, multi-tenant workspaces, live pipeline monitoring & analytics dashboard
 - [`Orbit`](https://github.com/muhammadsaami/Orbit) — full-stack freelance marketplace with React, FastAPI, PostgreSQL, Redis, real-time chat & Razorpay milestone payments
 - [`trustlens`](https://github.com/muhammadsaami/trustlens) — AI agent & RAG observability platform with automatic hallucination/retrieval scoring, live dashboard & Python SDK (FastAPI, Celery, Postgres, React, Ragas)
+- [`ResumeFit`](https://github.com/muhammadsaami/ResumeFit) — local-first resume analyzer with a deterministic 100-point ATS score, reversible auto-fixes with a fabrication guard, job-description matching & LaTeX/PDF export (FastAPI, React, TypeScript, Tectonic)
 
 **Reach me:** khansaami2131@gmail.com · [linkedin.com/in/muhammadsaami](https://linkedin.com/in/muhammadsaami)
 
